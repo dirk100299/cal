@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428742418601",
+    "project_id": "chill-it-mexico",
+    "storage_bucket": "chill-it-mexico.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428742418601:android:72d27357f36fe2d4bf09b8",
+        "android_client_info": {
+          "package_name": "de.kai_morich.simple_bluetooth_le_terminal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428742418601-fu3uit9rs3dasiv2dlbgcqcsb06dp01v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUP8AaaNaaU_tUm9aWdG3Vqwn0WoobR1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428742418601-fu3uit9rs3dasiv2dlbgcqcsb06dp01v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
